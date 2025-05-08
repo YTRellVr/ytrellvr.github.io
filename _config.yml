@@ -44,15 +44,14 @@ projects:
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
-
+  # youtube: RellVr
 topics:
-  - name: GAMES!!!!! yayyyy
+  - name: GAMES
     web_url: "Game_site/index.html"
     image_url: "Game_Logo.png"
 
-  - name: Web design134567
+  - name: Web Proxie (COMING SOON)
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: IDK
+    web_url: 
+    image_url: 
