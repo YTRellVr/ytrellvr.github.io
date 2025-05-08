@@ -1,1 +1,2 @@
-My stuffs have fun I guess 
+Update log:
+https://github.com/YTRellVr/ytrellvr.github.io/deployments/github-pages
