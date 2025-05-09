@@ -50,7 +50,7 @@ topics:
     web_url: "Game_site/index.html"
     image_url: "Game_Logo.png"
 
-  - name: Web Proxy Server
+  - name: Web Proxy Server (WIP)
     web_url: "tproxy/public/index.html"
     image_url: "images (1).png"
 
