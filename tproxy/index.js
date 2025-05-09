@@ -3,10 +3,10 @@ const https = require('https');
 const fs = require('fs');
 
 // CONFIGURATION
-const prefix = '/tproxy';  // Set your prefix here
+const prefix = '/web';  // Set your prefix here
 const localAddresses = [];  // Set your local addresses here
 const blockedHostnames = ["https://sevenworks.eu.org/bad-site"];  // Set your blocked hostnames here
-const ssl = false;  // Set SSL configuration here
+const ssl = true;  // Set SSL configuration here
 const port = 6969;  // Set the desired port
 const index_file = 'index.html'; // Set index file shown by the browser
 // END OF CONFIGURATION
